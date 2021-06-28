@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 15 17:37:12 CST 2021","Tue Jun 15 17:37:15 CST 2021","2884","scripts","test_ml_search","TestMlCart","","","test_ml_order[电子钟-LCD电子钟 升级版]",""
+"passed","Tue Jun 15 17:38:31 CST 2021","Tue Jun 15 17:38:33 CST 2021","2294","scripts","test_ml_pay_order","TestMlHome","","","test_ml_pay[expect0]",""

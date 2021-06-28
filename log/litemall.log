@@ -1,0 +1,59 @@
+2021-06-15 17:37:11,731 INFO [root] [base.py __init__:15] - 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="9ab47bb411f7416565f127cdcafccecb")>
+2021-06-15 17:37:11,733 INFO [root] [page_ml_login.py page_ml_login:33] - 正在调用商城登录业务方法，用户名：user123，密码：user123
+2021-06-15 17:37:11,733 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[type="text"]')
+2021-06-15 17:37:11,748 INFO [root] [base.py base_input:30] - 正在对('css selector', '[type="text"]')元素进行清空操作
+2021-06-15 17:37:11,788 INFO [root] [base.py base_input:33] - 正在对('css selector', '[type="text"]')元素进行输入操作
+2021-06-15 17:37:11,865 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[type="password"]')
+2021-06-15 17:37:11,873 INFO [root] [base.py base_input:30] - 正在对('css selector', '[type="password"]')元素进行清空操作
+2021-06-15 17:37:11,893 INFO [root] [base.py base_input:33] - 正在对('css selector', '[type="password"]')元素进行输入操作
+2021-06-15 17:37:12,953 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/button')元素进行点击操作
+2021-06-15 17:37:12,953 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/button')
+2021-06-15 17:37:12,987 INFO [root] [base.py __init__:15] - 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="9ab47bb411f7416565f127cdcafccecb")>
+2021-06-15 17:37:12,989 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[3]/div[1]/div[1]/i')元素进行点击操作
+2021-06-15 17:37:12,989 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[3]/div[1]/div[1]/i')
+2021-06-15 17:37:13,570 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[1]/div[1]/div/div')元素进行点击操作
+2021-06-15 17:37:13,570 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[1]/div[1]/div/div')
+2021-06-15 17:37:13,702 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[placeholder="请输入商品名称"]')
+2021-06-15 17:37:13,710 INFO [root] [base.py base_input:30] - 正在对('css selector', '[placeholder="请输入商品名称"]')元素进行清空操作
+2021-06-15 17:37:13,728 INFO [root] [base.py base_input:33] - 正在对('css selector', '[placeholder="请输入商品名称"]')元素进行输入操作
+2021-06-15 17:37:13,759 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[placeholder="请输入商品名称"]')
+2021-06-15 17:37:14,296 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div')元素进行点击操作
+2021-06-15 17:37:14,296 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div')
+2021-06-15 17:37:14,364 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[5]/button[1]')元素进行点击操作
+2021-06-15 17:37:14,364 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[5]/button[1]')
+2021-06-15 17:37:14,947 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[3]/div[3]/div[3]/button[1]')元素进行点击操作
+2021-06-15 17:37:14,947 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[3]/div[3]/div[3]/button[1]')
+2021-06-15 17:37:14,976 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[5]/div[1]/div')元素进行点击操作
+2021-06-15 17:37:14,976 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[5]/div[1]/div')
+2021-06-15 17:37:15,318 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')
+2021-06-15 17:37:15,840 INFO [root] [base.py base_get_text:43] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')元素获取文本操作，获取的文本值为LCD电子钟 升级版
+2021-06-15 17:37:15,840 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')
+2021-06-15 17:37:15,856 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')
+2021-06-15 17:37:15,856 INFO [root] [base.py base_get_text:43] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')元素获取文本操作，获取的文本值为LCD电子钟 升级版
+2021-06-15 17:37:15,856 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div[1]')
+2021-06-15 17:38:29,984 INFO [root] [base.py __init__:15] - 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="a88c57afbf9f0c3b1b62ad3f3244e7da")>
+2021-06-15 17:38:29,984 INFO [root] [page_ml_login.py page_ml_login:33] - 正在调用商城登录业务方法，用户名：user123，密码：user123
+2021-06-15 17:38:29,985 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[type="text"]')
+2021-06-15 17:38:29,996 INFO [root] [base.py base_input:30] - 正在对('css selector', '[type="text"]')元素进行清空操作
+2021-06-15 17:38:30,021 INFO [root] [base.py base_input:33] - 正在对('css selector', '[type="text"]')元素进行输入操作
+2021-06-15 17:38:30,079 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('css selector', '[type="password"]')
+2021-06-15 17:38:30,087 INFO [root] [base.py base_input:30] - 正在对('css selector', '[type="password"]')元素进行清空操作
+2021-06-15 17:38:30,106 INFO [root] [base.py base_input:33] - 正在对('css selector', '[type="password"]')元素进行输入操作
+2021-06-15 17:38:31,165 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/button')元素进行点击操作
+2021-06-15 17:38:31,165 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/button')
+2021-06-15 17:38:31,198 INFO [root] [base.py __init__:15] - 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="a88c57afbf9f0c3b1b62ad3f3244e7da")>
+2021-06-15 17:38:31,200 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[3]/div[4]/div[1]/i')元素进行点击操作
+2021-06-15 17:38:31,200 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[3]/div[4]/div[1]/i')
+2021-06-15 17:38:31,734 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]/a')元素进行点击操作
+2021-06-15 17:38:31,734 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]/a')
+2021-06-15 17:38:31,793 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div/div[1]/div/div[2]')元素进行点击操作
+2021-06-15 17:38:31,793 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div/div[1]/div/div[2]')
+2021-06-15 17:38:32,338 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[2]/div/div[1]/div[3]/div/button[2]')元素进行点击操作
+2021-06-15 17:38:32,338 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[2]/div/div[1]/div[3]/div/button[2]')
+2021-06-15 17:38:32,390 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/div[3]/div[2]/div/div[1]/div[2]/div/div/i')元素进行点击操作
+2021-06-15 17:38:32,391 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[3]/div[2]/div/div[1]/div[2]/div/div/i')
+2021-06-15 17:38:32,425 INFO [root] [base.py base_click:38] - 正在对('xpath', '//*[@id="app"]/div[2]/button')元素进行点击操作
+2021-06-15 17:38:32,426 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/button')
+2021-06-15 17:38:33,478 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '/html/body/div[3]/div[1]/div')
+2021-06-15 17:38:33,494 INFO [root] [base.py base_get_text:43] - 正在对('xpath', '/html/body/div[3]/div[1]/div')元素获取文本操作，获取的文本值为你选择了支付宝支付
+2021-06-15 17:38:33,494 INFO [root] [base.py base_find_element:20] - 正在查找元素: ('xpath', '/html/body/div[3]/div[1]/div')

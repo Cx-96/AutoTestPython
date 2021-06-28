@@ -1,0 +1,108 @@
+{
+  "uid" : "b67c1c5dfe14a448",
+  "name" : "test_ml_order[电子钟-LCD电子钟 升级版]",
+  "fullName" : "scripts.test_ml_search.TestMlCart#test_ml_order",
+  "historyId" : "eb1d8c933af24ebb0d3f968df43f2b54",
+  "time" : {
+    "start" : 1623749832988,
+    "stop" : 1623749835872,
+    "duration" : 2884
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMlCart",
+    "time" : {
+      "start" : 1623749830049,
+      "stop" : 1623749832987,
+      "duration" : 2938
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ac5c82c5f00b0334",
+      "name" : "log",
+      "source" : "ac5c82c5f00b0334.txt",
+      "type" : "text/plain",
+      "size" : 3716
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMlCart::0",
+    "time" : {
+      "start" : 1623749835872,
+      "stop" : 1623749839016,
+      "duration" : 3144
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_ml_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMlCart"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M9DE32O9"
+  }, {
+    "name" : "thread",
+    "value" : "27520-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_ml_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "'LCD电子钟 升级版'"
+  }, {
+    "name" : "keyword",
+    "value" : "'电子钟'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b67c1c5dfe14a448.json",
+  "parameterValues" : [ "'LCD电子钟 升级版'", "'电子钟'" ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_ml_search",
+      "children" : [ {
+        "name" : "TestMlCart",
+        "children" : [ {
+          "name" : "test_ml_order[电子钟-LCD电子钟 升级版]",
+          "uid" : "b67c1c5dfe14a448",
+          "parentUid" : "4241e9b7ee5cd1715535083f3107d155",
+          "status" : "passed",
+          "time" : {
+            "start" : 1623749832988,
+            "stop" : 1623749835872,
+            "duration" : 2884
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'LCD电子钟 升级版'", "'电子钟'" ]
+        } ],
+        "uid" : "4241e9b7ee5cd1715535083f3107d155"
+      } ],
+      "uid" : "6f21dd7b669c176ff17f1ce228148220"
+    }, {
+      "name" : "test_ml_pay_order",
+      "children" : [ {
+        "name" : "TestMlHome",
+        "children" : [ {
+          "name" : "test_ml_pay[expect0]",
+          "uid" : "b1d4c9b0111f574d",
+          "parentUid" : "ee368c6ba6e2df78ec179e0f347d6669",
+          "status" : "passed",
+          "time" : {
+            "start" : 1623749911200,
+            "stop" : 1623749913494,
+            "duration" : 2294
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "('你选择了支付宝支付',)" ]
+        } ],
+        "uid" : "ee368c6ba6e2df78ec179e0f347d6669"
+      } ],
+      "uid" : "ace1503f441e87c86c8f9c7f4d1f55af"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

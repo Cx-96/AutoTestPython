@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-M9DE32O9",
+    "children" : [ {
+      "name" : "20664-MainThread",
+      "children" : [ {
+        "name" : "test_ml_pay[expect0]",
+        "uid" : "b1d4c9b0111f574d",
+        "parentUid" : "c75c3173ab964318cc612eba6d6a9e59",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623749911200,
+          "stop" : 1623749913494,
+          "duration" : 2294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "('你选择了支付宝支付',)" ]
+      } ],
+      "uid" : "c75c3173ab964318cc612eba6d6a9e59"
+    }, {
+      "name" : "27520-MainThread",
+      "children" : [ {
+        "name" : "test_ml_order[电子钟-LCD电子钟 升级版]",
+        "uid" : "b67c1c5dfe14a448",
+        "parentUid" : "ba3574770cc5f37a8ab67fa6ae73aad8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623749832988,
+          "stop" : 1623749835872,
+          "duration" : 2884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'LCD电子钟 升级版'", "'电子钟'" ]
+      } ],
+      "uid" : "ba3574770cc5f37a8ab67fa6ae73aad8"
+    } ],
+    "uid" : "cd342c8db972f560afc7fde2e4eaa71c"
+  } ]
+}

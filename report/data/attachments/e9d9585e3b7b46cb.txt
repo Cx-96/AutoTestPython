@@ -1,0 +1,26 @@
+INFO     root:base.py:15 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="a88c57afbf9f0c3b1b62ad3f3244e7da")>
+INFO     root:page_ml_login.py:33 正在调用商城登录业务方法，用户名：user123，密码：user123
+INFO     root:base.py:20 正在查找元素: ('css selector', '[type="text"]')
+INFO     root:base.py:30 正在对('css selector', '[type="text"]')元素进行清空操作
+INFO     root:base.py:33 正在对('css selector', '[type="text"]')元素进行输入操作
+INFO     root:base.py:20 正在查找元素: ('css selector', '[type="password"]')
+INFO     root:base.py:30 正在对('css selector', '[type="password"]')元素进行清空操作
+INFO     root:base.py:33 正在对('css selector', '[type="password"]')元素进行输入操作
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/button')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/button')
+INFO     root:base.py:15 正在初始化driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="a88c57afbf9f0c3b1b62ad3f3244e7da")>
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[3]/div[4]/div[1]/i')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[3]/div[4]/div[1]/i')
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]/a')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]/a')
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/div/div[1]/div/div[2]')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div/div[1]/div/div[2]')
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[2]/div/div[1]/div[3]/div/button[2]')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div/div[2]/div[2]/div/div[1]/div[3]/div/button[2]')
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/div[3]/div[2]/div/div[1]/div[2]/div/div/i')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/div[3]/div[2]/div/div[1]/div[2]/div/div/i')
+INFO     root:base.py:38 正在对('xpath', '//*[@id="app"]/div[2]/button')元素进行点击操作
+INFO     root:base.py:20 正在查找元素: ('xpath', '//*[@id="app"]/div[2]/button')
+INFO     root:base.py:20 正在查找元素: ('xpath', '/html/body/div[3]/div[1]/div')
+INFO     root:base.py:43 正在对('xpath', '/html/body/div[3]/div[1]/div')元素获取文本操作，获取的文本值为你选择了支付宝支付
+INFO     root:base.py:20 正在查找元素: ('xpath', '/html/body/div[3]/div[1]/div')

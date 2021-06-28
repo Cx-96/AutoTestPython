@@ -1,0 +1,105 @@
+{
+  "uid" : "b1d4c9b0111f574d",
+  "name" : "test_ml_pay[expect0]",
+  "fullName" : "scripts.test_ml_pay_order.TestMlHome#test_ml_pay",
+  "historyId" : "2430d883f2a3022bd495cbbd30b8accd",
+  "time" : {
+    "start" : 1623749911200,
+    "stop" : 1623749913494,
+    "duration" : 2294
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMlHome",
+    "time" : {
+      "start" : 1623749908267,
+      "stop" : 1623749911199,
+      "duration" : 2932
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e9d9585e3b7b46cb",
+      "name" : "log",
+      "source" : "e9d9585e3b7b46cb.txt",
+      "type" : "text/plain",
+      "size" : 2823
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMlHome::0",
+    "time" : {
+      "start" : 1623749913494,
+      "stop" : 1623749916615,
+      "duration" : 3121
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_ml_pay_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMlHome"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M9DE32O9"
+  }, {
+    "name" : "thread",
+    "value" : "20664-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_ml_pay_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "('你选择了支付宝支付',)"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1d4c9b0111f574d.json",
+  "parameterValues" : [ "('你选择了支付宝支付',)" ]
+}
