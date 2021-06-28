@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_ml_order[电子钟-LCD电子钟 升级版]",
+    "uid" : "b67c1c5dfe14a448",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623749832988,
+      "stop" : 1623749835872,
+      "duration" : 2884
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'LCD电子钟 升级版'", "'电子钟'" ]
+  }, {
+    "name" : "test_ml_pay[expect0]",
+    "uid" : "b1d4c9b0111f574d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623749911200,
+      "stop" : 1623749913494,
+      "duration" : 2294
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "('你选择了支付宝支付',)" ]
+  } ]
+}
